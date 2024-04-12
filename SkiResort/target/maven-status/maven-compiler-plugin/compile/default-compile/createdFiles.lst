@@ -1,0 +1,10 @@
+org\example\servlet\MainServlet$RequestLogger.class
+org\example\client\ClientInterface.class
+org\example\servlet\MainServlet.class
+org\example\client\ClientUploader$SkiRidePoster.class
+org\example\client\ClientUploader.class
+org\example\schema\LiftRide.class
+org\example\schema\SkierData.class
+org\example\schema\SkierLiftRideEvent.class
+org\example\servlet\JettyServer.class
+org\example\client\JavaClient.class
